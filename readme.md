@@ -7,6 +7,7 @@ The extra componets for the GX11 are listed in `stl` folder.
 * OpenRB-150 motor control boad.
 * Type-C USB cable
 * 11 Dynamixel XL330-M288-T motors.
+* 5V 15A DC power.
 * Standard components for XL330-M288-T motors, S101, S102, FPX330.
 * EH2.54 3pin connectors.
 
